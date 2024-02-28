@@ -5,6 +5,8 @@ using UnityEngine;
 public class Rotater : MonoBehaviour
 {
 
+    //every frame rotate the collectable 
+    
     // Update is called once per frame
     void Update()
     {
